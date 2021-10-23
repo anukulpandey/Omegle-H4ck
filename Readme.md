@@ -20,6 +20,9 @@ And paste the code which is inside file.js
 
 After going to omegle.com
 
+Before pasting this code in console of developers mode make sure to get an api key from the website.
+https://ipgeolocation.io/
+
 ## Authors
 
 - [@anukulpandey](https://www.github.com/anukulpandey)
